@@ -2,17 +2,16 @@
 
 
 
+
 By Carrie Ybay
 
 
 
-On going project - started 09-13-2022, must end by 09-16-2022(in 3 days) - you're done with 0% of the task
+On going project - started  Sep 13, 2022 6:00 AM, must end by Sep 16, 2022 6:00 AM
 
 
 
-checkek was released at Sep 14, 2022 12:00 AM
+checker was released  Sep 14, 2022 12:00 AM
 
 
-
-
-QA review fully automated.
+QA fully automated.
